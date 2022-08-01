@@ -1,0 +1,29 @@
+body{
+    /*background-image: url(railway.jpg);*/
+    background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)), url("./Images/railway.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+       
+}
+h1,h2{
+    font-weight: bold;
+}
+p{
+    font-weight: bold;
+    margin-top: 3%;
+    margin-left: 15%;
+}
+h2{
+    margin-left: 40%;
+}
+button{
+    width: 200px;
+    margin-top: 2%;
+    margin-left: 15%;
+}
+.container-fluid{
+    margin: o auto;
+}
+.row{
+    margin-top: 5%;
+}
